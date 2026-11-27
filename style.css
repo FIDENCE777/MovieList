@@ -39,7 +39,7 @@
      transform: perspective(800px) rotateX(0deg);
 }
 .image:hover {
-    transform: perspective(800px) rotateX(-8deg);
+    transform: perspective(1200px) rotateX(-8deg);
     transform-origin: bottom;
     transition: 1s;
     box-shadow: 0 15px 30px rgb(104, 1, 32);
